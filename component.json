@@ -1,6 +1,6 @@
 {
   "name": "debug",
   "description": "small debugging utility",
-  "main": "debug.js"
+  "main": "debug.js",
   "version": "0.7.1"
 }
